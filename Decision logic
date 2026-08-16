@@ -1,0 +1,29 @@
+The system assigns points.
+
+Readiness
+
+≥85       +2
+70–84     +1
+<70        0
+
+Wellness
+
+≥17       +2
+13–16     +1
+<13        0
+
+Performance
+
+≥88       +2
+80–87     +1
+<80        0
+
+Training-load increase
+>25%      -2
+>40%      additional -1
+
+Then:
+Score ≥5    → READY
+Score 2–4   → CAUTION
+Score <2    → REVIEW
+This is a demonstration rule engine, not a validated clinical or injury-risk model.
